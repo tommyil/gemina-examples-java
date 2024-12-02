@@ -227,12 +227,22 @@ The `client_business_number` can be represented either by `String` or `Integer`.
 ## More Resources
 
 Response Types - https://github.com/tommyil/gemina-examples/blob/master/response_types.md
+
 Data Loop - https://github.com/tommyil/gemina-examples/blob/master/data_loop.md
+
+LLM Integration - https://github.com/tommyil/gemina-examples/blob/master/llm_integration.md
+
+C# Implementation - https://github.com/tommyil/gemina-examples-cs
+
 Python Implementation - https://github.com/tommyil/gemina-examples
+
+Node.js/TypeScript Implementation - https://github.com/tommyil/gemina-examples-ts
+
 
 ------
 
 The full example code is available in this repository.
 
 For more details, please refer to the [API documentation](https://api.gemina.co.il/swagger/).
+
 You can also contact us [here](mailto:info@gemina.co.il).

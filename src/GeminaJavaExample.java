@@ -114,6 +114,7 @@ public class GeminaJavaExample {
         Map<String, Object> jsonData = new HashMap<>();
         jsonData.put("client_id", CLIENT_ID);
         jsonData.put("external_id", invoiceId);
+        jsonData.put("use_llm", true);
         jsonData.put("url", invoiceURL);
 
         HttpRequest request = HttpRequest.newBuilder()
