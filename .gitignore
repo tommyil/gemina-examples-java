@@ -47,9 +47,6 @@ application.yml
 config.properties
 
 # Test images and sensitive data
-*.png
-*.jpg
-*.jpeg
 *.pdf
 *.env
 credentials.json
