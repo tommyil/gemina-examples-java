@@ -232,6 +232,8 @@ Data Loop - https://github.com/tommyil/gemina-examples/blob/master/data_loop.md
 
 LLM Integration - https://github.com/tommyil/gemina-examples/blob/master/llm_integration.md
 
+Line Item Integration - https://github.com/tommyil/gemina-examples/blob/master/line_items.md
+
 C# Implementation - https://github.com/tommyil/gemina-examples-cs
 
 Python Implementation - https://github.com/tommyil/gemina-examples
